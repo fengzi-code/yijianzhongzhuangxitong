@@ -1,0 +1,2 @@
+# yijianzhongzhuangxitong
+一键重装windowns系统
