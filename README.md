@@ -2,8 +2,10 @@
 
 1. 软件为易语言代码,模块纯源码
 2. 功能都正常
-3. 源码只用于学习使用
+3. 源码只可用于学习使用
 4. UI版增加了驱动备份等功能,半成品没时间改了
+5. gpt_pe.e为PE环境下的重装源码
+6. BOOT.wim为PE，链接: https://pan.baidu.com/s/1OqkuMSZIJiah8WBscaLW9g 提取码: kkn3 
 
 ![](paste_image/2019-11-13-10-56-13.png)
 
