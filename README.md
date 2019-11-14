@@ -7,7 +7,7 @@
 5. gpt_pe.e为PE环境下的重装源码
 6. BOOT.wim为PE，链接: https://pan.baidu.com/s/1OqkuMSZIJiah8WBscaLW9g 提取码: kkn3 
 
-![](paste_image/2019-11-13-10-56-13.png)
+
 
 
 ```
